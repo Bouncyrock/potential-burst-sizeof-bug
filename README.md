@@ -1,6 +1,6 @@
 # Issue
 
-> Fixed: https://issuetracker.unity3d.com/issues/the-sizeof-of-struct-with-structlayout-returns-a-smaller-value-in-the-burst-compiled-code-compared-to-the-mono-compiled-code
+> Fixed in Burst 1.3.0-preview.13: https://issuetracker.unity3d.com/issues/the-sizeof-of-struct-with-structlayout-returns-a-smaller-value-in-the-burst-compiled-code-compared-to-the-mono-compiled-code
 
 Test code here: [Assets/Scripts/Tests.cs](Assets/Scripts/Tests.cs)
 
